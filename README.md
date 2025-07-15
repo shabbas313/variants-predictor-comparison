@@ -6,7 +6,8 @@ This repository contains results, figures and necessary codes for our manuscript
 
 ## Study Workflow
 Here us the overall workflow of our study, from data curation to interpretation 
-![Study Workflow Figure] (https://github.com/shabbas313/variants-predictor-comparison/blob/298e2cd62d600fc8b7a269b8707c3ca855751df0/supplementary_data/Figure_1.png) 
+
+![Study Workflow Figure](https://raw.githubusercontent.com/shabbas313/variants-predictor-comparison/refs/heads/main/supplementary_data/Figure_1.png) 
 
 ## Benchmark Datasets 
 Due to their large file size, the benchmark datasets analyzed in this study are not hosted on this GitHub repository. The full datasets are available from the author upon reasonable request.  
