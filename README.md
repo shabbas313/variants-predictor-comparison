@@ -4,6 +4,10 @@ This repository contains results, figures and necessary codes for our manuscript
 
 **Link to Published Paper:** [To be added upon publication- In-progress]
 
+## Study Workflow
+Here us the overall workflow of our study, from data curation to interpretation 
+![Study Workflow Figure] (https://github.com/shabbas313/variants-predictor-comparison/blob/298e2cd62d600fc8b7a269b8707c3ca855751df0/supplementary_data/Figure_1.png) 
+
 ## Benchmark Datasets 
 Due to their large file size, the benchmark datasets analyzed in this study are not hosted on this GitHub repository. The full datasets are available from the author upon reasonable request.  
 Upon receipt, will be provided with the datasets in .csv format. In all files, the ground truth labels are located in a column named Label, where 1 represents Pathogenic and 0 represents Benign. 
